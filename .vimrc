@@ -9,14 +9,7 @@ if has('vim_starting')
     
     " originalrepos on github
     NeoBundleFetch 'Shougo/neobundle.vim'
-    NeoBundle 'Shougo/vimproc'
-    NeoBundle 'VimClojure'
-    NeoBundle 'Shougo/vimshell'
-    NeoBundle 'Shougo/unite.vim'
-    NeoBundle 'Shougo/neocomplcache'
     NeoBundle 'Shougo/neosnippet-snippets'
-    NeoBundle 'jpalardy/vim-slime'
-    NeoBundle 'scrooloose/syntastic'
     NeoBundle 'derekwyatt/vim-scala'
     NeoBundle 'jiangmiao/auto-pairs'
 
