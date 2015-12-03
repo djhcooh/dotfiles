@@ -5,3 +5,4 @@ export CLASSPATH=~/ScalaCode
 
 alias scalac='scalac -d ~/ScalaCode/'
 alias ls='ls -alFh'
+alias ocaml='rlwrap ocaml'
